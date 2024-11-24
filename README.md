@@ -35,3 +35,11 @@ The project was built using PHP for backend logic and MySQL for database managem
 - Expanding the platform to support mobile-friendly designs for broader accessibility.
 - Collaborating with organizations to use Phish Battle as a training tool for employees.
 - Integrating advanced analytics to provide tailored phishing simulations based on user performance.
+
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=zlaDgl79rXQ&t=1s" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=zlaDgl79rXQ&t=1s"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
